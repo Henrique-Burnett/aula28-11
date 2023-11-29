@@ -1,5 +1,6 @@
 #Instruções
-Criar uma pasta com um arquivo index.html no vscode
-em seguida commitar no seu repositorio local
-e em seguida criar um repositorio online no github
-e em seguida puxar as alteracoes do repositorio local para o github
+
+1 - Criar uma pasta com um arquivo index.html no vscode
+2 - Commitar no seu repositorio local
+3 - Criar um repositorio online no github
+4 - Puxar as alteracoes do repositorio local para o github
